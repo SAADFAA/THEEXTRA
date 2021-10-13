@@ -1,0 +1,5 @@
+{
+	"ip":"TheextraSMPfbBo.aternos.me",
+	"port": "22665",
+	"name": "Fahad"
+}
